@@ -15,4 +15,4 @@
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/hayaparveen)
-- [Email](parveenhaya01@gmail.com)
+- [Email](mailto:parveenhaya01@gmail.com)
