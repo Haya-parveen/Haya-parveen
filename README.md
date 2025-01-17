@@ -14,5 +14,5 @@
 - Exploring advanced topics and predictive analytics to enhance decision-making processes.
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/(https://www.linkedin.com/in/hayaparveen))
-- [Email](mailto:parveenhaya01@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/hayaparveen)
+- [Email](parveenhaya01@gmail.com)
